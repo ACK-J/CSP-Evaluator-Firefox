@@ -4,3 +4,6 @@ This is a super simple port of the [CSP-Evaluator chrome extension](https://chro
 To check your CSP policy manually use this webapp https://csp-evaluator.withgoogle.com/
 
 To learn how to mitigate cross-site scripting (XSS) with a CSP read [this blog](https://web.dev/articles/strict-csp)
+
+
+![image](https://github.com/user-attachments/assets/9c5664d7-ce51-471e-847c-47cc7940a0ec)
